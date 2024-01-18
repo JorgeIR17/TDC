@@ -1,0 +1,7 @@
+DEC_N_BITS: Ejercicio 1
+EJ3: Ejercicio 3
+FSM_BOTTLE: Ejercicio 4
+
+En el ejercicio 3 se ha usado el fichero DISP7SEG.vhd
+En el ejercicio 4 se ha usado el fichero EDGE_DETECTOR_00.vhd
+Ambos se han usado a partir del uso de librería
