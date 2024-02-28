@@ -5,7 +5,7 @@ Los proyectos han sido probados en una placa Digilent Nexys 4 DDR
 
 Nota: Puede que algún proyecto tenga algún error (no sintáctico) y que, sobre todo al usarlo en placa pueda dar problemas. En tal caso siempre es mejor pedir ayuda a la profesora :)
 
-Para crear ficheros de Testbench nos proporcionan las sigueintes páginas (recomiendo la primera, la usé y nunca me dió problemas):
+Para crear ficheros de Testbench nos proporcionan las siguientes páginas (recomiendo la primera, la usé y nunca me dió problemas):
 
 https://www.doulos.com/knowhow/perl/testbench_creation/
 
